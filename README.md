@@ -19,12 +19,6 @@ A Python-based desktop app to split group expenses, track balances, and gain sma
 
 ---
 
-## 📸 Screenshots
-
-*(You can add these later)*  
-![Screenshot](screenshot.png)
-
----
 
 ## 🧱 Tech Stack
 
@@ -55,19 +49,19 @@ expense-tracker-app/
 
 === Spending Insights ===
 
-Top Spenders:
+### Top Spenders:
 
 Alice paid a total of ₹1200.00
 
 Bob paid a total of ₹750.00
 
-Participation Frequency:
+### Participation Frequency:
 
 Alice was part of 6 transaction(s)
 
 Bob was part of 5 transaction(s)
 
-Most Active Payers:
+### Most Active Payers:
 
 Alice paid 3 time(s)
 
